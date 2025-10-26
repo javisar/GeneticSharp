@@ -165,7 +165,7 @@ namespace GeneticSharp
             }
 
             m_genes[index] = gene;
-            Fitness = null;
+            //Fitness = null;
         }
 
         /// <summary>
